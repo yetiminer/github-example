@@ -1,9 +1,6 @@
 Mountains In Scotland
 ==================
 
-Ben Eighe
-Cairngorm
-jkugjkjk
-hi
-hi
-
+* Ben Eighe
+* Cairngorm
+* Aonach Eagach
